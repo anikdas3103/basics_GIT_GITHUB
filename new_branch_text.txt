@@ -35,5 +35,7 @@ git rm -rf .
 git commit -m "Start fresh with an empty branch"
 git push origin -u new_branch
 
+NOTE: what happens here is all the other files look like they are deleted but once you go back to your master branch, they will reappear
+
 
 
